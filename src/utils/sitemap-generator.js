@@ -2,7 +2,7 @@ require("babel-register")({
   presets: ["es2015", "react"]
 });
 
-const router = require("../common/Urls").default;
+const router = require("../common/SitemapUrl").default;
 const Sitemap = require("react-router-sitemap").default;
 const axios = require('axios');
 
