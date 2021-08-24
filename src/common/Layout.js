@@ -22,7 +22,7 @@ export default function Layout() {
                                 <Link to="/users">Users</Link>
                             </li>
                             <li>
-                                <Link to="/user/1">User</Link>
+                                <Link to="/car">Car List</Link>
                             </li>
                         </ul>
                     </nav>
