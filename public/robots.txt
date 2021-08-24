@@ -1,3 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
+Sitemap: https://otodeals.com/sitemap.xml
+Sitemap: https://otodeals.com/sitemap-car-detail.xml
 User-agent: *
 Disallow:
